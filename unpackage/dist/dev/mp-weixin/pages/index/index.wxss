@@ -1,0 +1,11 @@
+
+.count-style{
+	width: 750rpx;
+	height: 100rpx; 
+	text-align: center;
+	line-height: 100rpx;
+	font-size: 40rpx; 
+	color: #DD524D;
+}
+
+

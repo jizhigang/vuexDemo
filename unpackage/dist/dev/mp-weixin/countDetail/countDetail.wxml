@@ -1,0 +1,1 @@
+<view><view class="count-style">{{"count="+count+",name="+name}}</view><button data-event-opts="{{[['tap',[['jiajia',['$event']]]]]}}" bindtap="__e">++</button><button data-event-opts="{{[['tap',[['jianjian',['$event']]]]]}}" bindtap="__e">--</button><button data-event-opts="{{[['tap',[['changeName',['$event']]]]]}}" bindtap="__e">name修改为tony</button></view>
